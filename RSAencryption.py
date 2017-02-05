@@ -54,7 +54,7 @@ def main():
 
 	#Easiest to store cipher as numbers, but
 	#	encrypted message with unicode text
-    #	can look cool
+	#	can look cool
     cipher = []
     cipherText = ''
     for Tchar in message:

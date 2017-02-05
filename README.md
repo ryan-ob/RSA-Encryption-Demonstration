@@ -1,6 +1,6 @@
 #Simple RSA encryption demonstration in Python 2.7
 
-This program demonstrates using RSA asymmetric encryption (public key, private key encryption). Asymmetric encryption is used in protocol like OpenPGP.
+This program demonstrates using RSA asymmetric encryption (public key, private key encryption). Asymmetric encryption is used in protocols like OpenPGP.
 
 The RSA encyption scheme uses two random prime numbers to generate a public and private key. With large enough primes (unimaginably large, in fact), breaking the encryption becomes practically impossible.
 
