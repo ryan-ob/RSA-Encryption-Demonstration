@@ -1,4 +1,4 @@
-#Simple RSA encryption demonstration in Python 2.7
+## Simple RSA encryption demonstration in Python 2.7
 
 This program demonstrates using RSA asymmetric encryption (public key, private key encryption). Asymmetric encryption is used in protocols like OpenPGP.
 
